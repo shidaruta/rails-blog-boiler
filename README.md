@@ -1,2 +1,2 @@
 # README
-Getting started with ruby MVC >_<
+Getting started with Ruby on Rails(8.0) MVC >_<
